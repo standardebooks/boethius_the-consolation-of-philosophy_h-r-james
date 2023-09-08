@@ -47,7 +47,8 @@ abbr[epub|type~="se:era"]{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
+[epub|type~="bridgehead"] i,
+em{
 	font-style: normal;
 }
 
