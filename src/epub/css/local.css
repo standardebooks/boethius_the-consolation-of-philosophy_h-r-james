@@ -2,10 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-[epub|type~="z3998:song"] hgroup p{
-	text-align: center;
-}
-
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -23,8 +19,6 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
-
 
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
@@ -56,7 +50,16 @@ abbr[epub|type~="se:era"]{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"]
-em{
+[epub|type~="bridgehead"] em{
 	font-style: normal;
+}
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
+[epub|type~="z3998:song"] header p{
+	text-align: center;
 }
