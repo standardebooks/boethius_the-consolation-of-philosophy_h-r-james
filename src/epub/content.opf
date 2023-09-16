@@ -35,7 +35,6 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85058807</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<meta property="se:subject">Spirituality</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">Awaiting execution after having been unjustly imprisoned for treason, a former Roman consul and senator is composing poetry expressive of his distress when there appears to him the personification of Philosophy, a woman who converses with the prisoner about philosophical issues including fortune, the divine, earthly goods, evil, chance, providence and free will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
