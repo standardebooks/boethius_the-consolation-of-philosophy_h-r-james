@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14328</dc:source>
 		<dc:source>https://archive.org/details/consolationofphi00boetiala</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Chapter divisions of the text are not well established for this prosimetrical text, so context had to be taken into account in making them. The first song was included in the first chapter along with the second song. After that, there is one song and one prose section per chapter, except for the final chapter.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy</meta>
