@@ -16,16 +16,6 @@ header{
 	text-align: center;
 }
 
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
-
-p span.i4{
-	padding-left: 5em;
-	text-indent: -1em;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
@@ -68,4 +58,14 @@ p span.i4{
 [epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+[epub|type~="z3998:song"] p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:song"] p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
 }
