@@ -70,7 +70,17 @@ header{
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:song"] p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
 [epub|type~="z3998:song"] p span.i4{
 	padding-left: 5em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p span.i6{
+	padding-left: 7em;
 	text-indent: -1em;
 }
