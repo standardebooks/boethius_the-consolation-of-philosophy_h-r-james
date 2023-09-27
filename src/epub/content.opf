@@ -49,7 +49,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14328</dc:source>
 		<dc:source>https://archive.org/details/consolationofphi00boetiala</dc:source>
-		<meta property="se:production-notes">Chapter divisions of the text are not well established for this prosimetrical text, so context had to be taken into account in making them. The first song was included in the first chapter along with the second song. After that, there is one song and one prose section per chapter, except for the final chapter.</meta>
+		<meta property="se:production-notes">Chapter divisions are not well established for the first book of this prosimetrical text. The first song was included in the first book file, so that, in accordance with the scans, it appears before Book I Chapter I. After that, there is one song and one prose section to each chapter of the first book, as for the rest of the work excepting the final prose chapter.
+		Blockquotes have been placed around four songs that are explicitly introduced as quotations (Book I Songs I, II, and V; and Book III Song IX). </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy</meta>
