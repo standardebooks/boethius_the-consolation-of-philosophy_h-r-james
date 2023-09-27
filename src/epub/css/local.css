@@ -28,7 +28,8 @@ section[epub|type="part"] > section{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] em{
+[epub|type~="bridgehead"] em,
+[epub|type~="bridgehead"] i{
 	font-style: normal;
 }
 
