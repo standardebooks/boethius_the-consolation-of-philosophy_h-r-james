@@ -16,8 +16,8 @@ header{
 	text-align: center;
 }
 
-section{
-	break-after: page;
+section[epub|type="part"] > section{
+	break-before: page;
 }
 
 [epub|type~="bridgehead"]{
