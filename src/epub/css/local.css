@@ -32,10 +32,6 @@ section{
 	font-style: normal;
 }
 
-[epub|type~="z3998:song"] header p{
-	text-align: center;
-}
-
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
@@ -43,12 +39,6 @@ section{
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:song"] header > p > span{
-	display: inline;
-	padding-left: 0;
 	text-indent: 0;
 }
 
