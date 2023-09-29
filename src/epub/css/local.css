@@ -10,10 +10,6 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-header{
-	font-variant: small-caps;
-}
-
 section[epub|type="part"] > section{
 	break-before: page;
 }
