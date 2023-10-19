@@ -14,6 +14,10 @@ section[epub|type="part"] > section{
 	break-before: page;
 }
 
+.line-break span:first-child{
+	vertical-align: 100%;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
