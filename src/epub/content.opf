@@ -52,7 +52,7 @@
 		<meta property="se:production-notes">Chapter divisions are not well established for the first book of this prosimetrical text. The first song was included in the first book file, so that, in accordance with the scans, it appears before Book I Chapter I. After that, there is one song and one prose section to each chapter of the first book, as for the rest of the work excepting the final prose chapter.
 		Blockquotes have been placed around four songs that are explicitly introduced as quotations (Book I Songs I, II, and V; and Book III Song IX). </meta>
 		<meta property="se:word-count">41977</meta>
-		<meta property="se:reading-ease.flesch">64.34</meta>
+		<meta property="se:reading-ease.flesch">64.85</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Consolation_of_Philosophy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/boethius_the-consolation-of-philosophy_h-r-james</meta>
 		<dc:creator id="author">Boethius</dc:creator>
