@@ -66,8 +66,8 @@
 		<meta property="file-as" refines="#translator">James, H. R.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Henry Rosher James</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50028967</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Joseph Wright of Derby</dc:contributor>
 		<meta property="file-as" refines="#artist">Wright, Joseph</meta>
